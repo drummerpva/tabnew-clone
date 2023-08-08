@@ -6,7 +6,8 @@
   "author": "Douglas Poma <43733472+drummerpva@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "lint": "eslint --fix"
   },
   "dependencies": {
     "next": "13",
